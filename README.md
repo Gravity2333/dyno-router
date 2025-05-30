@@ -1,5 +1,8 @@
-# dyno-router
 # 🚀 Dyno Router
+
+<div style="position: relative; height: 80px;">
+  <img src="./demo/assets/dyno.png" alt="Dyno Router Logo" style="position: absolute; top: -70; right: 0; height: 60px;" />
+</div>
 
 **Dyno Router** 是一个现代化的 React 路由库，支持用户可编辑的动态路由配置，兼容 `react-router` 的核心功能，并内置强大的模块化路由加载器，助你快速构建灵活、高效、可拓展的前端架构。
 
